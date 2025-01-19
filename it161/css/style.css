@@ -1,0 +1,23 @@
+body {
+  margin: 1em;
+}
+img {
+  float: left;
+  margin:1em;
+  max-width: 400px;
+  border-radius: 50%;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: red;
+  text-decoration: none;
+  background-color: yellow;
+}
+
+footer {
+  clear: both;
+}

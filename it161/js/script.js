@@ -1,0 +1,2 @@
+document.getElementById("check-html").setAttribute("href", "https://validator.w3.org/nu/?doc=" + location.href)
+document.getElementById("check-css").setAttribute("href", "https://jigsaw.w3.org/css-validator/validator?uri=" + location.href)
