@@ -1,0 +1,48 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua&display=swap');
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fff;
+  max-width: 960px;
+  width: 90%;
+  margin:auto;
+  padding: 1%;
+}
+
+footer {
+  clear: both;
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+}
+
+nav a {
+  color: #000
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+  margin: 0 2%;
+}
+
+nav a:hover {
+  text-decoration: none;
+}
+
+.page-header {
+  font-family:'Inknut Antiqua',serif;
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  text-shadow: 4px 4px 4px #aaa;
+}
+
+
+
