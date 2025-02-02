@@ -1,0 +1,27 @@
+body {
+  margin: 1em;
+}
+img {
+  margin:1em;
+  max-width: 400px;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: red;
+  text-decoration: none;
+  background-color: yellow;
+}
+
+footer {
+  clear: both;
+}
+
+table, th, td {
+  border: 1px solid;
+  border-collapse:collapse;
+ }
+
